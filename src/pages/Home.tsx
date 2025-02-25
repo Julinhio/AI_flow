@@ -98,7 +98,7 @@ function Home() {
             className="text-center max-w-3xl mx-auto"
           >
             <h2 className="text-3xl font-bold mb-6">
-              Need Help? Talk to our AI Assistant
+              Want to test it out? Talk to FlowRence, your new AI-Customer Agent
             </h2>
             <p className="text-gray-600 mb-12">
               Get instant answers and automate tasks with our AI chatbot
